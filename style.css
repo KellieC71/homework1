@@ -16,7 +16,9 @@
   background: white; 
   height: 1000px; 
   width: 700px;
+  color: white;
 }
+  
 .main{
   padding-top: 50px; 
   background: lightgray;
@@ -29,14 +31,16 @@
   }
 .topnav {
     float: right;
-    color: white
+    color: white;
 }  
 
 .content1 {
     background-color: rgb(43, 153, 226);   
-}
+    color: black;
+  }
 .btn{
-  color: white; 
+  color: white ; 
+  background-color: aquamarine
 }
 img{
   height: 250px; 
